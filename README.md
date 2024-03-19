@@ -1,4 +1,4 @@
-### Hi there 👋 Всем привет!
+// about me:
 
 As a Salesforce Developer at Eli Lilly and Company, a top 20 global pharmaceutical company, I develop, support, and automate business processes using Apex, Visualforce, SQL, HTML, CSS, JavaScript, and LWC.
 
